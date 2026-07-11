@@ -63,6 +63,16 @@ I am passionate about developing AI solutions using **Machine Learning, Deep Lea
 - Jupyter Notebook
 - VS Code
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priya-2798&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-2798&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
 
 ## 🚀 Current Projects

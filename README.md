@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Priyanka Chatterjee 👋
 
-<!--
-**Priya-2798/Priya-2798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc Artificial Intelligence Student** at the **University of Surrey**
 
-Here are some ideas to get you started:
+I am passionate about developing AI solutions using **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Explainable AI (XAI)**. My goal is to build intelligent systems that solve real-world problems in healthcare, sustainability, and trust & safety.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 MSc Artificial Intelligence @ University of Surrey
+- 💼 6+ years of experience in Trust & Safety and Data Analytics
+- 🐍 Strong in Python & SQL
+- 🤖 Interested in Machine Learning, Deep Learning, Computer Vision and NLP
+- 🌍 Based in Guildford, United Kingdom
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+- Python
+- SQL
+
+### Machine Learning
+- Scikit-learn
+- Regression
+- Classification
+- Feature Engineering
+- Model Evaluation
+- Cross Validation
+
+### Deep Learning
+- PyTorch
+- TensorFlow
+- CNN
+- ResNet
+- EfficientNet
+- MobileNetV3
+- Vision Transformer (ViT)
+- Swin Transformer
+- DeiT
+- DINOv2
+
+### NLP
+- BERT
+- RoBERTa
+- DistilBERT
+- Hugging Face Transformers
+- LoRA
+- Qwen
+
+### Data Analytics
+- Pandas
+- NumPy
+- Power BI
+- Looker
+- Excel
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+
+---
+
+## 🚀 Current Projects
+
+- 🩺 Deep Learning for Medical Image Analysis
+- 🤖 NLP using Transformer Models
+- 🌬️ Renewable Energy Forecasting
+- 🌫️ Air Pollution Forecasting
+- 💳 Insurance Fraud Detection
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/priyanka-ai
+- Email: chatterjeepriyanka569@gmail.com
+

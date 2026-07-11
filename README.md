@@ -67,16 +67,19 @@ I am passionate about developing AI solutions using **Machine Learning, Deep Lea
 
 ## 🚀 Current Projects
 
-- 🩺 Deep Learning for Medical Image Analysis
-- 🤖 NLP using Transformer Models
-- 🌬️ Renewable Energy Forecasting
-- 🌫️ Air Pollution Forecasting
-- 💳 Insurance Fraud Detection
+## 🚀 Current Projects
+
+- 🩺 Diabetic Retinopathy Detection using Deep Learning
+- 🤖 Natural Language Processing using Transformer Models
+- 💳 Insurance Fraud Detection using Machine Learning
+- 📈 Employee Retention Prediction
+- 🚕 Exploratory Data Analysis for NYC Taxi Operations
+- 📦 Delivery Time Prediction using Linear Regression
 
 ---
 
 ## 📫 Connect with Me
 
 - LinkedIn: https://linkedin.com/in/priyanka-ai
-- Email: chatterjeepriyanka569@gmail.com
+- Email: priyankachatterjee237@gmail.com
 

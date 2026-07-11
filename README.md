@@ -34,18 +34,14 @@ I am passionate about developing AI solutions using **Machine Learning, Deep Lea
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priya-2798&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-2798&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priya-2798&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-2798&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Current Projects
 
-## 🚀 Current Projects
+## ⭐ Featured Projects
 
 - 🩺 Diabetic Retinopathy Detection using Deep Learning
 - 🤖 Natural Language Processing using Transformer Models
